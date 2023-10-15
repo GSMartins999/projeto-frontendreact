@@ -8,25 +8,25 @@
   {
     "id": "2",
     "name": "Camisa de Astronauta Branca",
-    "price": 39.99,
+    "price": 40.30,
     "image": "https://http2.mlstatic.com/D_NQ_NP_767628-MLB70110197705_062023-O.webp"
   },
   { 
     "id": "3",
     "name": "Camisa Nasa Preta",
-    "price": 129.99,
+    "price": 120.00,
     "image": "https://static3.tcdn.com.br/img/img_prod/460977/camiseta_unissex_nasa_agencia_governamental_exploracao_espacial_espaco_preta_cd_106127_1_ffa24179546f02375d726b72d392d2a4.jpg"
   },
   {
     "id": "4",
     "name": "Camisa Universo",
-    "price": 199.99,
+    "price": 195.00,
     "image": "https://img.elo7.com.br/product/original/47530CB/camiseta-camisa-espaco-universo-space-galaxia-cosmos-d41-sistema-solar.jpg"
   },
   {
     "id": "5",
     "name": "Camisa Nasa",
-    "price": 89.99,
+    "price": 86.00,
     "image": "https://img.elo7.com.br/product/original/2E39A86/camiseta-blusa-nasa-astronauta-espacial-espaco-agencia-g2.jpg"
   },
   {
